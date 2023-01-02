@@ -1,0 +1,16 @@
+h1
+{
+    background-color: aqua;
+    color:rebeccapurple;
+    box-shadow:0 0 10px black;
+    border-radius: 20px;
+    width:1000px;
+   
+
+}
+h1:hover
+{
+    color:black;
+    background-color: purple;
+    cursor:pointer;
+}
